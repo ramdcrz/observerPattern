@@ -47,3 +47,4 @@
 </ul>
 
 ## UML Diagram
+![alt text](https://github.com/ramdcrz/observerPattern/blob/main/observerPattern_UML.png?raw=true)
